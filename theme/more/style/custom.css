@@ -19,3 +19,25 @@ a.logo {
 /* Custom CSS Settings
 -------------------------*/
 [[setting:customcss]]
+a:hover
+{
+	text-decoration:none !important;
+	color:#4be948 !important;	
+}
+.navbar
+{
+	border-bottom:3px solid #4ab848 !important;
+}
+header h1
+{
+	padding-top:10px !important;	
+}
+.logininfo
+{
+	height:70px !important;
+	line-height:70px !important;
+}
+.logininfo, .logininfo a:link, .logininfo a:visited, .logininfo a:focus
+{
+	color:#ffffff;	
+}
